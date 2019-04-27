@@ -2,6 +2,10 @@
 
 __This project was created as a part of a final exam for Coursera's course "IBM Data Science Professional Certificate".__
 
+ __You can see this project in "assistant.ipynb" or if you don't want to run it yourself, but still would like to see and use all the interactive maps use this link:__
+
+https://nbviewer.jupyter.org/github/JakubVoros/training/blob/master/capstone_finale/assistant.ipynb
+
 ### Introduction 
  I've spent a past year living in Warsaw, Poland and in a couple of months I'll be moving back to Prague, Czech Republic. Which brings the question of picking the right location where to move to. So I'm using this opportunity and creating a project that will help me with this. But I will make it so that it will also be useful for other people who might need some basic overview of areas in Prague.
 
